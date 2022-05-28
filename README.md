@@ -12,3 +12,7 @@ Project 2: `Line Follower Robot` of CSE461 Introduction to Robotics course of [B
 + Car Chassis: `2WD Smart Robot Car Chassis`
 + Start Switch: `4 pin switch button`
 + Reflectance Sensor: `QTR-8A`
+
+## Language Used
++ C
++ C++
